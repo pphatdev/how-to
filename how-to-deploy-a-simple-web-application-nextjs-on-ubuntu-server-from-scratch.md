@@ -17,6 +17,9 @@ This guide will walk you through the steps to deploy a simple Next.js web applic
 
 
 ## Step 1: Update and Upgrade the Server
+
+> Please use `sudo` if required permission
+
 First, connect to your Ubuntu server via SSH:
 
 ```bash
